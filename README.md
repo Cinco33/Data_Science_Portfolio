@@ -1,28 +1,27 @@
-# 🏀 NBA Player Stats Analysis (RStudio Project)
+# 🏀 NBA Player Stats Analysis (R Project)
 
 ## 📌 Objective
-Explore how NBA player performance varies with age and shooting efficiency using real data and linear regression modeling in R.
+Analyze how age and shooting efficiency (FG%) relate to points per game (PPG) using NBA player stats.
 
-## 🧠 Tools & Skills Used
-- R, tidyverse, ggplot2, corrplot
-- Data Cleaning & Transformation
-- Regression Modeling
-- Data Visualization
+## 🧰 Tools Used
+- R, tidyverse, ggplot2
+- R Markdown
+- Linear regression, EDA
 
 ## 📊 Dataset
 - Source: [Kaggle NBA Dataset](https://www.kaggle.com/)
-- 10,000+ player stats from 2000+
+- 10,000+ player seasons
+- Cleaned in RStudio
 
-## 🔍 Key Findings
-- Players tend to peak between ages 26–29
-- FG% has a moderate correlation with PPG
-- Regression model showed both age and FG% are statistically significant predictors
-
-## 📈 Sample Visualization
+## 📈 Sample Visual
 ![Age vs PPG](visuals/age_vs_pts.png)
 
-## 📝 Output
-This project includes:
-- `nba_analysis.Rmd`: Complete analysis
-- `nba_data.csv`: Source data
-- `visuals/`: Plots for presentation
+## 🧠 Key Findings
+- Players typically peak at age 27–29
+- FG% is moderately correlated with scoring
+- Regression shows both Age and FG% are significant
+
+## 📂 Files
+- `nba_analysis.Rmd` – full analysis
+- `nba_data.csv` – dataset
+- `visuals/` – saved plots
