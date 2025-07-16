@@ -14,7 +14,7 @@ Analyze how age and shooting efficiency (FG%) relate to points per game (PPG) us
 - Cleaned in RStudio
 
 ## 📈 Sample Visual
-![Age vs PPG](visuals/age_vs_pts.png)
+![Age vs PPG] 
 
 ## 🧠 Key Findings
 - Players typically peak at age 27–29
