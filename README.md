@@ -1,27 +1,30 @@
-# 🏀 NBA Player Stats Analysis (R Project)
+# 📊 Darius Nobles — Data Science Portfolio
 
-## 📌 Objective
-Analyze how age and shooting efficiency (FG%) relate to points per game (PPG) using NBA player stats.
+Welcome to my Data Science Portfolio!  
+This repository showcases my projects and analyses that combine my background in **education, analytics, and sports data** with strong technical skills in **Python, R, Excel, and SQL**.
 
-## 🧰 Tools Used
-- R, tidyverse, ggplot2
-- R Markdown
-- Linear regression, EDA
+## 🎯 About Me
+I’m passionate about uncovering insights from data to drive better decision-making.  
+My work focuses on:
+- **Sports analytics** and player performance trends  
+- **Financial and business analysis** using statistical models  
+- **Predictive modeling** and **data visualization** for clear communication  
 
-## 📊 Dataset
-- Source: [Kaggle NBA Dataset](https://www.kaggle.com/)
-- 10,000+ player seasons
-- Cleaned in RStudio
+## 🧩 Projects Included
+- **AbbVie Financial Analysis (2018–2020):** Vertical and horizontal analysis of profitability, liquidity, and growth.  
+- **NBA Player Statistics:** Regression and visualization of player performance metrics using RStudio.  
+- **(More projects coming soon — focused on data analytics, visualization, and predictive modeling!)**
 
-## 📈 Sample Visual
-Age vs PPG 
+## 🛠️ Tools & Technologies
+- **Languages:** Python, R, SQL  
+- **Libraries:** pandas, matplotlib, seaborn, scikit-learn  
+- **Data Tools:** Excel, Tableau, Power BI  
+- **Version Control:** Git & GitHub  
 
-## 🧠 Key Findings
-- Players typically peak at age 27–29
-- FG% is moderately correlated with scoring
-- Regression shows both Age and FG% are significant
+## 🚀 Goal
+This portfolio highlights my growth as a data scientist and analyst.  
+Each project demonstrates real-world data analysis — from cleaning and visualizing to building insights and presenting results.
 
-## 📂 Files
-- `nba_analysis.Rmd` – full analysis
-- `nba_data.csv` – dataset
-- `visuals/` – saved plots
+Feel free to explore, star ⭐ projects you like, or connect with me on [LinkedIn](https://www.linkedin.com/in/dariusnobles?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzsxPiRN5QCWr3WK4F0u6JQ%3D%3D).
+
+
