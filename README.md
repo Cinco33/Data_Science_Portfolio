@@ -6,14 +6,15 @@ This repository showcases my projects and analyses that combine my background in
 ## 🎯 About Me
 I’m passionate about uncovering insights from data to drive better decision-making.  
 My work focuses on:
-- **Sports analytics** and player performance trends  
 - **Financial and business analysis** using statistical models  
-- **Predictive modeling** and **data visualization** for clear communication  
+- **Predictive modeling** and **data visualization** for clear communication
+- **Sports analytics** and player performance trends  
 
 ## 🧩 Projects Included
 - **AbbVie Financial Analysis (2018–2020):** Vertical and horizontal analysis of profitability, liquidity, and growth.  
 - **NBA Player Statistics:** Regression and visualization of player performance metrics using RStudio.  
 - **(More projects coming soon — focused on data analytics, visualization, and predictive modeling!)**
+- **
 
 ## 🛠️ Tools & Technologies
 - **Languages:** Python, R, SQL  
