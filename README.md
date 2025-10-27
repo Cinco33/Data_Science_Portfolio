@@ -11,10 +11,100 @@ My work focuses on:
 - **Sports analytics** and player performance trends  
 
 ## 🧩 Projects Included
-- **AbbVie Financial Analysis (2018–2020):** Vertical and horizontal analysis of profitability, liquidity, and growth.  
-- **NBA Player Statistics:** Regression and visualization of player performance metrics using RStudio.  
-- **(More projects coming soon — focused on data analytics, visualization, and predictive modeling!)**
-- **
+# 📊 1. NBA Player Statistics Analysis  
+**Tools:** RStudio | R  
+
+**Description:**  
+Analyzed NBA player performance using a Kaggle dataset containing 10,000+ records. Explored the relationships between **age, points per game (PPG), and field goal percentage (FG%)**.  
+
+**Techniques Used:**  
+- Data cleaning & wrangling  
+- Scatter plots, histograms, and linear regression modeling  
+- Statistical trend analysis  
+
+**Outcome:**  
+Identified key insights on how player age influences scoring efficiency and shooting accuracy.  
+
+---
+
+## 🏦 2. Bank Marketing Campaign Analysis  
+**Tools:** Excel | Python (Jupyter Notebook)  
+
+**Description:**  
+Evaluated customer response data from a bank marketing campaign to uncover performance insights and conversion patterns.  
+
+**Techniques Used:**  
+- Ratio & percentage analysis  
+- Trend identification  
+- Campaign performance visualization  
+
+**Outcome:**  
+Provided data-driven recommendations for improving customer targeting and engagement strategies.  
+
+---
+
+## 💰 3. AbbVie Inc. Financial Performance Analysis (2018–2020)  
+**Tools:** Excel  
+
+**Description:**  
+Conducted a comparative **vertical and horizontal analysis** of AbbVie Inc.’s financial statements to assess profitability, liquidity, and growth trends over three years.  
+
+**Techniques Used:**  
+- Common-size financial statement analysis  
+- Ratio computation (liquidity & profitability)  
+- Year-over-year comparison  
+
+**Outcome:**  
+Revealed strengths in AbbVie’s revenue growth and highlighted areas for cost optimization.  
+
+---
+
+## 🏀 4. NBA Attendance Summary (2015)  
+**Tools:** Python (Jupyter Notebook)  
+
+**Description:**  
+Processed and formatted NBA attendance data to summarize **total attendance, average attendance, and stadium capacity** for each team.  
+
+**Techniques Used:**  
+- Reading and parsing text files  
+- String and numerical formatting  
+- Automated summary generation  
+
+**Outcome:**  
+Created a structured dataset summarizing league-wide attendance patterns.  
+
+---
+
+## 🔍 5. Fraud & Vendor Transaction Analytics  
+**Tools:** IDEA | Alteryx | Excel  
+
+**Description:**  
+Designed fraud analytics to detect anomalies in **P-Card and vendor transactions** for financial audit scenarios.  
+
+**Techniques Used:**  
+- Vendor summarization and grouping  
+- Threshold filtering (transactions > average)  
+- Anomaly and outlier detection  
+
+**Outcome:**  
+Identified irregular vendor spending and improved internal audit transparency.  
+
+---
+
+## 🔗 6. GEL Relationship Testing Project  
+**Tools:** Excel | Data Analysis Framework  
+
+**Description:**  
+Explored variable relationships to identify dependencies within internal datasets as part of GEL (Generalized Entity Link) testing.  
+
+**Techniques Used:**  
+- Correlation analysis  
+- Relationship identification  
+- Pattern recognition  
+
+**Outcome:**  
+Discovered variable interactions that inform predictive analytics and decision-making models.  
+
 
 ## 🛠️ Tools & Technologies
 - **Languages:** Python, R, SQL  
