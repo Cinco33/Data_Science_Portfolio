@@ -116,6 +116,6 @@ Discovered variable interactions that inform predictive analytics and decision-m
 This portfolio highlights my growth as a data scientist and analyst.  
 Each project demonstrates real-world data analysis — from cleaning and visualizing to building insights and presenting results.
 
-Feel free to explore, star ⭐ projects you like, or connect with me on [LinkedIn](https://www.linkedin.com/in/dariusnobles?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzsxPiRN5QCWr3WK4F0u6JQ%3D%3D).
+Feel free to explore, star projects you like, or connect with me on [LinkedIn](https://www.linkedin.com/in/dariusnobles?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzsxPiRN5QCWr3WK4F0u6JQ%3D%3D).
 
 
