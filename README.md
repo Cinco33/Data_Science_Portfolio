@@ -6,7 +6,7 @@ I build data-driven solutions and software projects that turn raw data into clea
 
 ---
 
-## 🚀 Professional Focus
+##  Professional Focus
 
 * **Analyze Large Datasets** to uncover trends, anomalies, and insights
 * **Build End-to-End Projects** from raw data to visual storytelling
@@ -14,7 +14,7 @@ I build data-driven solutions and software projects that turn raw data into clea
 
 ---
 
-## 🧠 Core Skills
+##  Core Skills
 
 **Languages & Tools**
 
@@ -37,9 +37,9 @@ I build data-driven solutions and software projects that turn raw data into clea
 
 ---
 
-## 📊 Projects 
+## Projects 
 
-### 🚔 Crime Data Analysis (LA 2020-2024 Dataset)
+### Crime Data Analysis (LA 2020-2024 Dataset)
 
 * Cleaned and analyzed real-world crime data using Python
 * Studied **crime trends over time**, by area, and by demographic factors
@@ -48,7 +48,7 @@ I build data-driven solutions and software projects that turn raw data into clea
 
 ---
 
-### 💳 Fraud & Financial Data Analytics
+### Fraud & Financial Data Analytics
 
 * Designed analytics to detect **false refunds and voids** in sales data
 * Used **KPIs, trend analysis, and anomaly detection** to flag irregular activity
@@ -57,7 +57,7 @@ I build data-driven solutions and software projects that turn raw data into clea
 
 ---
 
-### 🗄️ Database Projects (SQL & MongoDB)
+### Database Projects (SQL & MongoDB)
 
 * Built and queried **MySQL databases** using complex SELECT statements
 * Designed **MongoDB collections** and performed filtered queries
@@ -66,7 +66,7 @@ I build data-driven solutions and software projects that turn raw data into clea
 
 ---
 
-### 🏀 NBA Player Statistics Analysis (10,000+ Records) 
+### NBA Player Statistics Analysis (10,000+ Records) 
 
 * Analyzed **10,000+ NBA player records** using R
 * Examined relationships between **age, points scored, and FG%**
@@ -75,7 +75,7 @@ I build data-driven solutions and software projects that turn raw data into clea
 * Presented insights using clear visualizations and data storytelling
 
 ---
-### 💻 Programming & Algorithm Practice
+### Programming & Algorithm Practice
 
 * Implemented logic-based solutions in **Java and C**
 * Solved problems involving **sliding windows, loops, and conditionals**
@@ -83,7 +83,7 @@ I build data-driven solutions and software projects that turn raw data into clea
 
 ---
 
-## 📈 What I’m Currently Working On
+## What I’m Currently Working On
 
 * Expanding GitHub with polished, well-documented analytics projects
 * Improving data visualization and storytelling techniques
@@ -91,10 +91,10 @@ I build data-driven solutions and software projects that turn raw data into clea
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 Feel free to explore, star projects you like, or connect with me on [LinkedIn](https://www.linkedin.com/in/dariusnobles?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzsxPiRN5QCWr3WK4F0u6JQ%3D%3D).
 
-## 🚀 Goal
+## Goal
 This portfolio highlights my growth as a data scientist and analyst.  
 Each project demonstrates real-world data analysis — from cleaning and visualizing to building insights and presenting results.
 
