@@ -1,6 +1,6 @@
 # Darius Nobles
 
-**Aspiring Data Analyst | Software Developer | Problem Solver**
+**Data Scientist | Software Developer | Problem Solver**
 
 I build data-driven solutions and software projects that turn raw data into clear insights. My focus is on **large datasets, analytics, and practical problem-solving** using **Python, R, SQL, Java, Tableau, and MongoDB**.
 
