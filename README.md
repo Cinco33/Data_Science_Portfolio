@@ -96,7 +96,7 @@ Feel free to explore, star projects you like, or connect with me on [LinkedIn](h
 
 ## Goal
 This portfolio highlights my growth as a data scientist and analyst.  
-Each project demonstrates real-world data analysis — from cleaning and visualizing to building insights and presenting results.
+Each project demonstrates real-world data analysis from cleaning and visualizing to building insights and presenting results.
 
 
 
