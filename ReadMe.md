@@ -1,8 +1,9 @@
+[GitHub_Main_README (2).md](https://github.com/user-attachments/files/26634393/GitHub_Main_README.2.md)
 # Darius Nobles — Data Analyst & Data Scientist
 
 > Turning complex datasets into clear decisions. Educator-turned-analyst with a proven track record of improving outcomes through evidence-based strategy.
 
-**Location:** Raleigh, NC | **Email:** Dariusnobles427@gmail.com | **[LinkedIn](https://www.linkedin.com/in/dariusnobles/)** | **[Portfolio](https://yoursite.netlify.app)**
+**Location:** Raleigh, NC | **Email:** Dariusnobles427@gmail.com | **[LinkedIn](https://www.linkedin.com/in/dariusnobles/)** | **[Portfolio](https://dariusnobles.netlify.app/)**
 
 ---
 
@@ -98,6 +99,6 @@ Data_Science_Portfolio/
 I'm actively seeking **Data Analyst** and **Data Scientist** roles where I can apply machine learning, statistical analysis, and data storytelling to drive real business outcomes.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Darius%20Nobles-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dariusnobles/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-555555?style=for-the-badge)](https://yoursite.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-555555?style=for-the-badge)](https://dariusnobles.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-2ea44f?style=for-the-badge)](mailto:Dariusnobles427@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Cinco33-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cinco33)
