@@ -1,3 +1,4 @@
+<img width="4859" height="2860" alt="DASHBOARD_V3" src="https://github.com/user-attachments/assets/7010cd58-8e08-43bf-a2a7-bcb898daaec4" />
 <img width="1785" height="885" alt="0a0cf608-a8a9-40ee-b0be-f5af8ca8cec7" src="https://github.com/user-attachments/assets/1d451b78-3fb7-4277-8f8c-95e40c4f3790" />
 <img width="1483" height="1035" alt="abec221a-7bc5-4220-bea9-0cf23c8765c1" src="https://github.com/user-attachments/assets/74fe100c-bad5-414a-aa56-fbb65fb3a0c4" />
 <img width="1185" height="885" alt="297f399b-7d00-4883-8f67-b3dcc5dbc4f2" src="https://github.com/user-attachments/assets/b5111e27-5087-4c05-b2d4-cab8125603ce" />
