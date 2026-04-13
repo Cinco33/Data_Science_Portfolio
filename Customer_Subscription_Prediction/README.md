@@ -46,25 +46,18 @@ The Euribor 3-month rate and employment figures are the strongest predictors. Ca
 ## Visualizations
 
 ### Subscription Rate by Job Type
-![Job Type](images/01_subscription_by_job.png)
 
 ### Seasonal Subscription Patterns
-![Monthly Trend](images/02_subscription_by_month.png)
 
 ### Age Distribution: Subscribers vs Non-Subscribers
-![Age Distribution](images/03_age_distribution.png)
 
 ### Diminishing Returns: More Calls ≠ More Conversions
-![Contacts vs Conversion](images/04_contacts_vs_conversion.png)
 
 ### Subscription Rate by Education Level
-![Education](images/05_subscription_by_education.png)
 
 ### Model Comparison — ROC Curves
-![ROC Curves](images/07_roc_curves.png)
 
 ### Top 15 Features Driving Predictions
-![Feature Importance](images/09_feature_importance.png)
 
 ---
 
