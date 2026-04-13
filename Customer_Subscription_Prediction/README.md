@@ -43,7 +43,7 @@ The Euribor 3-month rate and employment figures are the strongest predictors. Ca
 
 ---
 
-## Visualizations
+## Visualizations (Location: images\placeholder.md)
 
 ### Subscription Rate by Job Type
 
