@@ -12,7 +12,7 @@
 | :--- | :--- | :--- |
 | [Customer Subscription Prediction](./Customer_Subscription_Prediction) | Python, SQL, Tableau, Scikit-learn | ML model predicting churn across 40K+ records |
 | [Financial Performance Analysis — AbbVie](./Financial_Performance_AbbVie) | Python, Excel, Pandas, Matplotlib | 3-year financial trend analysis with exec-ready reporting |
-| [Donor Segmentation & Fundraising Insights](./Donor_Segmentation_Fundraising) | Python, Pandas, Excel, Jupyter | Segmented 1,000+ donor records to guide campaign strategy |
+| [Donor Segmentation & Fundraising Insights](./Donor_Segmentation) | Python, Pandas, Excel, Jupyter | Segmented 1,000+ donor records to guide campaign strategy |
 
 ---
 
