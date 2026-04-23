@@ -88,7 +88,37 @@ This segment is not lost — they just have not been engaged strategically. A ta
 | Low | Sunset Lost Donors after one low-cost win-back attempt | Reduce wasted outreach spend |
 
 ---
+## Visualizations
 
+### RFM Donor Segments
+![Segments](https://raw.githubusercontent.com/Cinco33/Data_Science_Portfolio/main/Donor_Segmentation/images/01_rfm_segments.png)
+
+### Revenue by Segment
+![Revenue](https://raw.githubusercontent.com/Cinco33/Data_Science_Portfolio/main/Donor_Segmentation/images/02_revenue_by_segment.png)
+
+### Average Gift by Donor Type
+![Gift](https://raw.githubusercontent.com/Cinco33/Data_Science_Portfolio/main/Donor_Segmentation/images/03_avg_gift_by_type.png)
+
+### Retention Rate by Recency — The 180-Day Cliff
+![Retention](https://raw.githubusercontent.com/Cinco33/Data_Science_Portfolio/main/Donor_Segmentation/images/04_retention_by_recency.png)
+
+### Channel Performance — Revenue and Retention
+![Channels](https://raw.githubusercontent.com/Cinco33/Data_Science_Portfolio/main/Donor_Segmentation/images/05_channel_performance.png)
+
+### Donor Map — Recency vs Gift Size
+![Scatter](https://raw.githubusercontent.com/Cinco33/Data_Science_Portfolio/main/Donor_Segmentation/images/06_rfm_scatter.png)
+
+### Campaign Performance
+![Campaigns](https://raw.githubusercontent.com/Cinco33/Data_Science_Portfolio/main/Donor_Segmentation/images/07_campaign_performance.png)
+
+### Donor Lifetime Value by Tenure
+![LTV](https://raw.githubusercontent.com/Cinco33/Data_Science_Portfolio/main/Donor_Segmentation/images/08_ltv_by_tenure.png)
+
+### Geographic Distribution
+![Geo](https://raw.githubusercontent.com/Cinco33/Data_Science_Portfolio/main/Donor_Segmentation/images/09_geographic_distribution.png)
+
+### KPI Summary
+![KPIs](https://raw.githubusercontent.com/Cinco33/Data_Science_Portfolio/main/Donor_Segmentation/images/10_kpi_summary.png)
 ## How to Run
 
 ```bash
